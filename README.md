@@ -1,4 +1,5 @@
 🧠 Machine Learning Mini-Projects
+
 Welcome to my repository of Machine Learning practice works and mini-projects.
 This space is dedicated to my learning journey in Data Analysis, Machine Learning, and Visualization, where I practice core ML concepts, work on small datasets, and improve my analytical thinking.
 
